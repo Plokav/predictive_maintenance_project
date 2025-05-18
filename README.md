@@ -43,8 +43,8 @@ streamlit run app.py
 - `README.md` - Описание проекта.
 
 ## Метрики модели
-- **Accuracy**: 0.997
-- **ROC-AUC**: 0.969
+- **Accuracy**: 0.98
+- **ROC-AUC**: 0.96
 - **Confusion Matrix**:``` [[1932 7] [ 23 38]]```
 
 ## Видео-демонстрация
